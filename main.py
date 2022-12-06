@@ -5,7 +5,7 @@ pygame.mixer.init()
 #drawing the main areas
 WIDTH, HEIGHT = 900, 500
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption('Spaceship game by keir')
+pygame.display.set_caption('Spaceship game by shyskill')
 
 #easy to change variables
 
